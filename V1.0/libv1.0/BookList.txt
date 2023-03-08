@@ -1,0 +1,3 @@
+Beyond Good and Evil,  Nietzsche,  N,  Philosophy
+The Republic,  Plato,  N,  Philosophy
+Learning Algorithms,  George T. Heineman,  N,  Computer Science
